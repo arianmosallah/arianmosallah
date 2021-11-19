@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arianmosallah
-- 👀 I’m interested in python, java and scripting languages perl and php
+- 👀 I’m interested in programming languages python and java along with scripting languages perl and php
 - 🌱 I’m currently learning python to improve my understanding with fun projects
 
 - 📫 How to reach me: amosallah@gmail.com
