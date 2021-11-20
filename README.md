@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @arianmosallah
-- 👀 I’m interested in programming languages python and java along with scripting languages perl and php
-- 🌱 I’m currently learning python to improve my understanding with fun projects
+- @arianmosallah
+- currently working on improving python
 
-- 📫 How to reach me: amosallah@gmail.com
-
-<!---
-arianmosallah/arianmosallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 amosallah@gmail.com
