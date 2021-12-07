@@ -1,4 +1,4 @@
 - @arianmosallah
-- currently working on improving python
+- currently working on improving java
 
 - 📫 amosallah@gmail.com
