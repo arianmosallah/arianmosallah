@@ -48,7 +48,7 @@ public class Main extends Application {
 		Button yMipBUTTON = new Button("FRONT MIP");
 		Button xMipBUTTON = new Button("SIDE MIP");
 
-		// sliders to step through the slices (z and y directions) (remember 113 slices
+		// sliders to step through the slices (z and y directions) (remember 113 slices)
 		// in z direction 0-112)
 		Slider zslider = new Slider(0, 112, 0);
 		Slider yslider = new Slider(0, 255, 0);
